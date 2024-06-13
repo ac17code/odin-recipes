@@ -1,0 +1,1 @@
+This is the Odin Project's first project, the recipes project. I have done it before, however since I haven't done HTML in a while I'm going to redo it so I can continue on with the entire Odin Project.
