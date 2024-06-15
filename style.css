@@ -27,3 +27,11 @@
     width: 50%;
     height: auto;
 }
+
+p {
+    color:purple;
+}
+
+li {
+    color: blue;
+}
