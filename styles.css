@@ -9,8 +9,21 @@ body {
 h1 {
     background-color: lightcoral;
     text-align: center;
+    padding:8px;
 }
 
 ul {
     background-color: lightblue;
+    text-align: center;
+    height: auto;
+    width: 500px;
+    margin: auto;
+}
+
+li {
+    font-size: 24px;
+    display: block;
+    list-style-type: none;
+    margin: 16px;
+    padding: 16px;
 }
